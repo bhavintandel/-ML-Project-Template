@@ -17,7 +17,7 @@ This repo has following directory structure:
 │   └───raw
 └───Docs
     ├───data_reports
-        ├───final_reports
-	    └───project_reports
+    |───final_reports
+    └───project_reports
 ```
 P.S. Usually this readme will contain your project description
