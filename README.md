@@ -6,18 +6,18 @@ This template allow one to get start on the project in an organized way. Many we
 
 This repo has following directory structure:
 .
-|-- data
-    |-- exploration
-    |-- processed
-    |-- raw
-    |-- data_description.md
-|-- docs
-    |-- data_reports
-    |-- final_reports
-    |-- project_reports
-|-- code
-    |-- data_acquisition_exploration
-    |-- deployment
-    |-- modelling
++-- data
+    +-- exploration
+    +-- processed
+    +-- raw
+    +-- data_description.md
++-- docs
+    +-- data_reports
+    +-- final_reports
+    +-- project_reports
++-- code
+    +-- data_acquisition_exploration
+    +-- deployment
+    +-- modelling
 
 P.S. Usually this readme will contain your project description
