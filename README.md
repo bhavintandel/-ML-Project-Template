@@ -15,7 +15,7 @@ This repo has following directory structure:
 │   ├───exploration
 │   ├───processed
 │   └───raw
-└───Docs
+└───docs
     ├───data_reports
     |───final_reports
     └───project_reports
