@@ -5,6 +5,7 @@ With increase in ML projects, every enthusiast want to develop best model. And i
 This template allow one to get start on the project in an organized way. Many website were consulted to make this template, Most of the ideas were picked from Microsoft's [Team Data Science Process](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview) which was developed by best mind in the world.
 
 This repo has following directory structure:
+```
 .
 ├───code
 │   ├───data_acquisition_exploration
@@ -18,5 +19,5 @@ This repo has following directory structure:
     ├───data_reports
         ├───final_reports
 	    └───project_reports
-
+```
 P.S. Usually this readme will contain your project description
